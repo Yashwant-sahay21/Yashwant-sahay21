@@ -25,7 +25,7 @@ Final-year Computer Science student passionate about Artificial Intelligence, Ma
 
 ## GitHub Stats
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Yashwant-sahay21\&show_icons=true)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=N_oNEnTiTy\&show_icons=true)
 
 ## Connect With Me
 
