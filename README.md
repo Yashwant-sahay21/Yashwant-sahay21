@@ -33,7 +33,7 @@ Final-year Computer Science student passionate about Artificial Intelligence, Ma
 ## Connect With Me
 
 * LinkedIn: [Yashwant Sahay](https://www.linkedin.com/in/yashwant-sahay-53ab85251/)
-* Email: [yashwantsahay21@gmail.com](mailto:yashwantsahay21@gmail.com)
+* Email: [Gmail](https://mail.google.com/mail/?view=cm&fs=1&to=yashwantsahay21@gmail.com)
 
 ---
 
