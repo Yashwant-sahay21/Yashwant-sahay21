@@ -1,16 +1,37 @@
-## Hi there 👋
+# Hi, I'm Yashwant Sahay 👋
 
-<!--
-**Yashwant-sahay21/Yashwant-sahay21** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Final-year Computer Science student passionate about Artificial Intelligence, Machine Learning, and building scalable software solutions.
 
-Here are some ideas to get you started:
+## About Me
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* Focused on AI/ML, backend development, and optimization problems
+* Experienced with Python, Machine Learning, and data-driven applications
+* Working on intelligent systems and real-world AI implementations
+* Committed to developing practical and impactful technology solutions
+
+## Tech Stack
+
+**Languages:** Python, SQL
+
+**AI/ML:** Scikit-learn, Pandas, NumPy, SHAP, LIME, Keras, TensorFlow
+
+**Tools & Technologies:** Git, Jupyter Notebook, VS code, PyTorch, OpenCV
+
+## Current Focus
+
+* Machine Learning and model optimization
+* AI-powered applications and intelligent systems
+* Backend systems and scalable software development
+
+## GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME\&show_icons=true)
+
+## Connect With Me
+
+* LinkedIn: https://www.linkedin.com/in/yashwant-sahay-53ab85251/
+* Email: yashwantsahay21@gmail.com
+
+---
+
+“Building intelligent systems one commit at a time.”
