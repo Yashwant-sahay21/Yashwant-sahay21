@@ -27,8 +27,7 @@ Final-year Computer Science student passionate about Artificial Intelligence, Ma
 
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yashwant-sahay21&theme=github_dark)
 
-![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yashwant-sahay21&theme=github_dark)
-![](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Yashwant-sahay21&theme=github_dark)
+![](https://github-readme-streak-stats.herokuapp.com/?user=Yashwant-sahay21&theme=tokyonight)
 ## Connect With Me
 
 * LinkedIn: [YASHWANT SAHAY](https://www.linkedin.com/in/yashwant-sahay-53ab85251/)
