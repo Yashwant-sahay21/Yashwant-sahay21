@@ -24,10 +24,12 @@ Final-year Computer Science student passionate about Artificial Intelligence, Ma
 * Backend systems and scalable software development
 
 ## GitHub Stats
-
 ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Yashwant-sahay21&theme=github_dark)
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=Yashwant-sahay21&theme=tokyonight)
+![](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Yashwant-sahay21&theme=github_dark&utcOffset=5.5)
+
+![](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Yashwant-sahay21&theme=github_dark)
+
 ## Connect With Me
 
 * LinkedIn: [YASHWANT SAHAY](https://www.linkedin.com/in/yashwant-sahay-53ab85251/)
