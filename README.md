@@ -1,4 +1,4 @@
-# Hi, I'm Yashwant Sahay 👋
+# Hi, I'm Yashwant Sahay 
 
 Final-year Computer Science student passionate about Artificial Intelligence, Machine Learning, and building scalable software solutions.
 
